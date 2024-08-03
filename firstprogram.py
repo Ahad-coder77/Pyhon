@@ -8,7 +8,7 @@ elif((a<=10 )and b=="Ahad"):
     print ("yes you are aligable of this cource")
 elif ((a>=1)and b=="abbasi"):
     print("Yes you are eligable of that cource. Thank you for applying it.")
-
+# In else there is no condition.
 else:
     print("Sorry you are not eligable fro that. Batter luck next time.")    
 
